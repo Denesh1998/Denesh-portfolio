@@ -1,17 +1,17 @@
-# 🌌 Personal Portfolio – Lautaro 
+# 🌌 Personal Portfolio – Denesh Kumar Manivannan
 
 ---
 
-## 🚀 Características principales
+## 🚀 Characteristics principles
 
 - ⚡️ Construido con **Astro** y **React** 
 - 🎨 **Diseño responsive**
 - 🧠 **Filtrado dinámico de proyectos**
-- 💬 Secciones personalizables: *Sobre mí*, *Proyectos*, *Experiencia*, *Contacto*  
+- 💬 Sections personalizable: *About Me*, *Projects*, *Experience*, *Contact*  
 
 ---
 
-## 🧩 Tecnologías utilizadas
+## 🧩 Tech used
 
 - [Astro](https://astro.build/)  
 - [TailwindCSS](https://tailwindcss.com/)  
