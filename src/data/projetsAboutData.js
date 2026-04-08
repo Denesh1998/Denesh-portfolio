@@ -1,7 +1,5 @@
 import urbanStyle from "../assets/img-projects/urbanStyle.png";
 import imgNote from "../assets/img-projects/note-app.png";
-import ReactEcommerce from "../assets/img-projects/ecommers.jpg";
-import VintageTone from "../assets/img-projects/vintageToneApp.jpg";
 
 export const proyectos = [
     {
