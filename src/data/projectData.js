@@ -12,42 +12,26 @@ import CvBuilder from "../assets/img-projects/CvBuilder.png";
 
 export const proyectos = [
   {
-    titulo: "Vintage Tone",
+    titulo: "Robotics Control System",
     descripcion:
-      "Comercio electrónico completo con carrito de compras, autenticación de usuarios jwt, panel de Admin, Blog, y mas. Stack: Vue.Js - Node.js - Express - MongoDB - Tailwind - Cloudinary.",
-    imagen: VintageTone.src,
-    tecnologias: ["Vue.js", "Tailwind", "Express", "MongoDB"],
-    demo: "https://vintage-tone-front-vue.vercel.app",
-    codigo: "https://github.com/Lautaro-R-collins/VintageTone-Front-Vue.git",
-    categoria: "fullstack",
-  },
-  {
-    titulo: "React Tiendita",
-    descripcion:
-      "E-commerce full stack desarrollado con React, Node.js y MongoDB. Incluye autenticación, carrito de compras, búsqueda, categorías, reseñas, etc.",
-    imagen: ReactEcommerce.src,
-    tecnologias: ["React", "Tailwind", "Express", "MongoDB"],
-    demo: "https://react-e-commerce-three-phi.vercel.app",
-    codigo: "https://github.com/Lautaro-R-collins/React-E-commerce.git",
-    categoria: "fullstack",
-  },
-  {
-    titulo: "Astro Ecommerce",
-    descripcion:
-      "E-commerce frontend desarrollado con Astro y React. Incluye carrito de compras, categorías, y diseño responsivo.",
-    imagen: AstroEcommers.src,
-    tecnologias: ["React", "Astro", "Tailwind", "daisyUI"],
-    demo: "https://e-commer-astro.vercel.app",
-    codigo: "https://github.com/Lautaro-R-collins/E-commer-Astro.git",
-    categoria: "frontend",
-  },
-  {
-    titulo: "App organizacion",
-    descripcion:
-      "App full-stack con funciones CRUD, creacion de tableros y listas, autentificacion de usuarios, desarrollada con MERN stack.",
+      "Advanced robotics control system implementing trajectory planning and motion control algorithms for autonomous robotic platforms. Features real-time path optimization and sensor integration.",
     imagen: imgNote.src,
-    tecnologias: ["React", "Tailwind", "Express", "MongoDB"],
-    demo: "https://front-react-todo.onrender.com",
+    tecnologias: ["Python", "ROS", "C++", "MATLAB"],
+    demo: "#",
+    codigo: "https://github.com/Denesh1998",
+    categoria: "robotics",
+  },
+  {
+    titulo: "Autonomous Navigation Framework",
+    descripcion:
+      "Framework for autonomous navigation in dynamic environments, incorporating SLAM, path planning, and obstacle avoidance algorithms for mobile robots.",
+    imagen: urbanStyle.src,
+    tecnologias: ["Python", "TensorFlow", "OpenCV", "ROS"],
+    demo: "#",
+    codigo: "https://github.com/Denesh1998",
+    categoria: "ai-ml",
+  },
+];
     codigo: "https://github.com/Lautaro-R-collins/Front-react-todo",
     categoria: "fullstack",
   },
@@ -198,14 +182,5 @@ export const proyectos = [
     categoria: "frontend",
   },
 
-  {
-    titulo: "100 days coding in Js",
-    descripcion: "100 proyectos, realizados con HTML, CSS y JavaScript.",
-    imagen:
-      "https://i.pinimg.com/736x/3b/4f/4e/3b4f4e170fcb1795b88f4941f49df0a2.jpg",
-    tecnologias: ["Next.js", "Tailwind", "GraphQL"],
-    demo: "https://one00-proyects-web.onrender.com/",
-    codigo: "https://github.com/Lautaro-R-collins/100-days-of-coding-in-JS",
-    categoria: "frontend",
   },
 ];
